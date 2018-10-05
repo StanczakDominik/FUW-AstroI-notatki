@@ -48,4 +48,16 @@
 
 $$M = m - 5 \log_{10} d + 5 - A$$
 
-gdzie $M$ to **jasność absolutna**, $m$ to **jasność obserwowalna**, $d$ to oczywiście odległość, zaś $A$ to stała (coś z wymieraniem).
+gdzie $M$ to **jasność absolutna**, $m$ to **jasność obserwowalna**, $d$ to
+oczywiście odległość, zaś $A$ to stała (coś z wymieraniem). Dla gwiazd ledwo
+widzialnych $m = 6$. Syriusz ma $m=-1.4$, a Słońce $m~-26.5$.
+
+## Supernowe IA
+
+Maksymalizują masy białych karłów (poprzez *akrecję* z towarzyszących im gwiazd).
+
+> Białe karły wyglądają wszystkie tak samo, jak eksplodują.
+
+## Jasność bolometryczna
+
+Jasność 
