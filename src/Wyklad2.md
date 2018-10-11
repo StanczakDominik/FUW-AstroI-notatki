@@ -72,9 +72,11 @@ przez zasadę przyczynowości (kwadrat prędkości fali akustycznej!)
 > wyjaśnienie lepsze niż we Wrocławiu
 
 
-### Politropowe równanie stanu
+## Politropowe równanie stanu
 
 $$ p = K \rho^\Gamma = K \rho^{1+1/n} $$
+
+n - indeks politropy, $\Gamma$ - wykładnik tejże. K zależy od składu chemicznego.
 
 $\Gamma$ mówi o sztywności danego obiektu (duże gamma - sztywne). Małe zmiany gęstości przy dużej gammie dają ogromne różnice ciśnień.
 Sztywne równania stanu pozwalają na większe rozmiary i masy (zapobiegają kolapsowi).
@@ -84,8 +86,30 @@ Z równaniami struktury
 $$ \frac{dm}{dr} = 4 \pi r^2 \rho $$
 $$ \frac{dp}{dr} = - \frac{Gmp}{r^2} $$
 
-Równania Tolmana-Oppenheimera-Volkoffa modelują statyczne gwiazdy neutronowe.
+### Równania TOV
+
+**Równania Tolmana-Oppenheimera-Volkoffa** modelują statyczne gwiazdy
+neutronowe. Tak naprawdę powyższe, z poprawkami relatywistycznymi w mianowniku.
+W slajdach, do przećwiczenia.
 
 > Chandrasekhar tłukący białe karły płynąc
 
+### Równanie LE
 
+Wychodząc z gazu doskonałego
+
+$$ P = \frac{k}{\mu m_H} \rho T $$
+
+i wstawiając równanie politropy, dostajemy temperaturę w funkcji gęstości.
+
+**Równanie Lane-Emdena** różniczkowe drugiego rzędu - w slajdach, do przećwiczenia.
+
+Analityczne rozwiązanie wychodzi dobrze dla indeksów politropy $n$:
+
+* 0 - wykładnik dąży do nieskończoności, nieściśliwe równanie stanu, stała gęstość
+* 1 - wykładnik dąży do 2, niezłe przybliżenie gwiazd neutronowych poza skorupą
+* 5 - wykładnik 6/5 - dość miękkie, raczej niestabilne, promień gwiazdy się rozbiega... Rozwiązanie raczej niefizyczne.
+
+Na diagramie HR zaznaczamy temperaturę i jasność przez względy obserwacyjne, nie jakieś fundamentalne. Masę ciężej tam złapać.
+
+Ciśnienie centralne $P_c \sim G M^2/R^4$.
