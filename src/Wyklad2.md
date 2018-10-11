@@ -113,3 +113,6 @@ Analityczne rozwiązanie wychodzi dobrze dla indeksów politropy $n$:
 Na diagramie HR zaznaczamy temperaturę i jasność przez względy obserwacyjne, nie jakieś fundamentalne. Masę ciężej tam złapać.
 
 Ciśnienie centralne $P_c \sim G M^2/R^4$.
+
+
+## Energia wiązania grawitacyjnego kuli politropowej
